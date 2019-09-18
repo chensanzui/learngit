@@ -10,4 +10,6 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
+	private static String msg = "dev-czy commit1";
+
 }
